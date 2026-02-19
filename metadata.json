@@ -1,0 +1,5 @@
+{
+  "name": "Karnataka Air & Weather Monitor",
+  "description": "Real-time air quality and weather monitoring for major cities in Karnataka, India, powered by Gemini Search.",
+  "requestFramePermissions": ["geolocation"]
+}
